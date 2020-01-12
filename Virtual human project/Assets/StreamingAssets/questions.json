@@ -1,0 +1,38 @@
+{
+"Questions":[{
+		"question": "Tell me something about yourself",
+		"answer": "The goal with this question is not only to get a brief summary of your experience and background, but also to get a clue about your personality. Do you reveal it all or can you keep it concise and to-the-point?"
+	},
+	{
+		"question": "What is your most significant accomplishment?",
+		"answer": "Interviewers tend to like this question as it clues them into your work patterns, how you perform, as well how comfortable you are talking about your general abilities. While it might seem awkward to talk about yourself, this is not the time to be humble! Take advantage of this question and really let yourself shine"
+	},
+	{
+		"question": "What is your greatest strength?",
+		"answer": "With this common interview question, it’s important to frame your answer in the context of the prospective company’s needs and how your strength can help to meet them"
+	},
+	{
+		"question": "What are your preferred programming languages?",
+		"answer": "While it would make sense why an interviewer would be interested in this question, it’s important to note that there is no correct answer here. You may want to research the company beforehand to find out their favorite languages, but if you aren’t fluent in them, don’t lie! Simply choose what you’re the most comfortable with and own it . "
+	},
+	{
+		"question": "What is a class? what is a super class?",
+		"answer": "A class defines the characteristics of a certain type of object such as which messages they will respond to and what form of response they will take. On the other hand, a super-class is the basis of the class under consideration"
+	},
+	{
+		"question": "What is Function Overloading?",
+		"answer": "Function overloading is a feature in OOP where two or more functions can have the same name but different parameters.Function overloading can be considered as an example of polymorphism "
+	},
+	{
+		"question": "What is the advantage of selection sort over merge sort?",
+		"answer": "Selection sort do not consume extra space to create sorted array, while merge sort does. Hence selection sort can be used for sorting where memory availaible is limited"
+	},
+	{
+		"question": "Between arrays and linked lists, which one would you choose if the gfunctionality requires fast access of data? explain why",
+		"answer": "Arrays, because, arrays are stored in continuous memory spaces which is easier and faster  to access"
+	},
+	{
+		"question": "What is the main difference between TCPand UDP?Also Abbreviate them",
+		"answer": "TCP- Transmission Control Protocol.  It is a Connection oriented protocol. UDP-User Datagram Protocol It is connection less protocol"
+	}
+]}
